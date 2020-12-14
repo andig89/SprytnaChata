@@ -15,7 +15,7 @@ sections:
   create: all
   match: "**/*"
 upload_dir: static
-public_path: "/SprytnaChata"
+public_path: ''
 front_matter_path: "/SprytnaChata"
 use_front_matter_path: true
 file_template: ":filename:"
