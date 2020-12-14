@@ -12,5 +12,3 @@ fields:
       format: markdown
   label: Test
   description: TEST
-pages:
-- exampleSite/content/index.md
